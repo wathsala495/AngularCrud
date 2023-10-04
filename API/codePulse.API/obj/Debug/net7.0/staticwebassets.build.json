@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gRSkd4rdcux5P3erACFBoDZRLwPO1OcZzMmuIKtyyx4=",
+  "Source": "codePulse.API",
+  "BasePath": "_content/codePulse.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
